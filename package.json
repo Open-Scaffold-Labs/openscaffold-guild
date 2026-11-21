@@ -1,0 +1,12 @@
+{
+  "name": "@openscaffold/guild",
+  "version": "1.0.0",
+  "description": "Zero-dependency Main Street Cooperative Engine: k-anonymous wholesale price benchmarking, 0%-toll local A2A peer referrals, collaborator steward revenue-share accounting, and SMB P&L margin recovery.",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "author": "Open Scaffold Labs LLC",
+  "license": "MIT"
+}
